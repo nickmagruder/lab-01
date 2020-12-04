@@ -34,7 +34,7 @@ background-color: #eb4034;
     background-color: #eb4034;
 }
 
-@media(min-width: 768px){
+@media(min-width: 481px){
     #a {
         background-color: #000000;
         color: white;
@@ -67,3 +67,41 @@ background-color: #eb4034;
         color: white;
     }
 }
+
+@media(min-width: 770px){
+    #a {
+        background-color: #eb4034;
+        }
+        
+        #b {
+            background-color: #eb9334;
+        }
+        
+        #c {
+            background-color: #ebeb34;
+        }
+        
+        #d {
+            background-color: #3deb34;
+        }
+        
+        #e {
+            background-color: #34ebd0;
+        }
+        
+        #f {
+            background-color: #3446eb;
+        }
+        
+        #g {
+            background-color: #9334eb;
+        }
+        
+        #h {
+            background-color: #eb34d6;
+        }
+        
+        #i {
+            background-color: #eb4034;
+        }
+    }
